@@ -55,3 +55,7 @@
 *Исходный код размещен в приватном репозитории. Для получения доступа следует обратиться по следующим контактам*:
 - tg: *@vladimirrudnevskii*
 - mail: *v.rud.frombts12@gmail.com*
+
+
+[1] S. Umnyashkin, D. Koplovich, A. Pokrovskiy, A. Alexandrov. Image Compression Algorithm Based on Encoding of Tree-Arranged Wavelet Coefficients // Proc. of 3rd Russian-Bavarian Conference on Biomedical Engineering. Erlangen. – 2007. – pp. 121-126. 
+[2] Умняшкин С. В. Вейвлет-компрессия цифровых изображений с прогнозированием статистических моделей //Известия вузов. Электроника. - №5. - 2001. - С.86-94.
